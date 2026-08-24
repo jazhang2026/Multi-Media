@@ -1,6 +1,12 @@
 # Multi-Media
  All multi media projects
 
+ **归真** 是我与 Deepseek AI 一起创作的小说. 使用 Edge TTS 生成音频， ChatGPT Images 生成 图像, MoviePy 合成视频.
+ 
+ 视频链接：
+ https://www.youtube.com/@jazhang-b7x
+
+
 ## Setup
 
 ```bash
