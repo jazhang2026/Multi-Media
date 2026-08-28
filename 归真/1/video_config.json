@@ -1,5 +1,5 @@
 {
-  "audio": "1/chpt1_1.mp3",
+  "audio": "1/chpt.mp3",
   "images": [
     "cover.png",
     "1/01_观察蚂蚁.png",
@@ -8,7 +8,7 @@
     "1/04_农村卫生院.png",
     "1/05_夕阳山坡.png"
   ],
-  "output": "1/story_video.mp4",
+  "output": "1/chpt1.mp4",
   "size": [1920, 1080],
   "fps": 24,
   "durations": [2, 167, 167, 167, 166, 166]

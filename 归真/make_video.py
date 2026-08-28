@@ -6,7 +6,7 @@ import sys
 from moviepy import AudioFileClip, ImageClip, concatenate_videoclips
 
 
-SAMPLE_COMMAND = "source .venv/bin/activate && python3 make_video.py 4/video_config.json"
+SAMPLE_COMMAND = "source .venv/bin/activate && python3 make_video.py 13/video_config.json"
 
 
 def main():

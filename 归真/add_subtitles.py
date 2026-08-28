@@ -38,7 +38,16 @@ def find_chinese_font():
     return None
 
 
-def run_whisper(audio_path, model, language, output_dir):
+def build_initial_prompt(text_path):
+    """Use the original script as an initial prompt to guide Whisper."""
+    if not text_path or not Path(text_path).is_file():
+        return None
+    text = Path(text_path).read_text(encoding="utf-8")
+    # Whisper expects a short prompt; take the first ~1000 characters.
+    return text[:1000]
+
+
+def run_whisper(audio_path, model, language, output_dir, initial_prompt=None):
     """Run OpenAI Whisper to generate an SRT file."""
     cmd = [
         "whisper",
@@ -47,7 +56,10 @@ def run_whisper(audio_path, model, language, output_dir):
         "--language", language,
         "--output_format", "srt",
         "--output_dir", str(output_dir),
+        "--word_timestamps", "False",
     ]
+    if initial_prompt:
+        cmd.extend(["--initial_prompt", initial_prompt])
     subprocess.run(cmd, check=True)
 
     base = Path(audio_path).stem
@@ -94,6 +106,7 @@ def main():
         help="Whisper model size (default: small)",
     )
     parser.add_argument("--language", default="Chinese", help="Language for Whisper (default: Chinese)")
+    parser.add_argument("--text", default=None, help="Original Chinese script file used for an initial prompt (improves accuracy)")
     parser.add_argument("--keep-srt", action="store_true", help="Keep the generated SRT file next to the output")
     args = parser.parse_args()
 
@@ -120,9 +133,12 @@ def main():
 
     print(f"Using Chinese font: {font_name}")
     print(f"Running Whisper ({args.model}) on {args.audio}...")
+    if args.text:
+        print(f"Using original script for initial prompt: {args.text}")
 
+    initial_prompt = build_initial_prompt(args.text)
     with tempfile.TemporaryDirectory() as tmpdir:
-        srt_path = run_whisper(args.audio, args.model, args.language, tmpdir)
+        srt_path = run_whisper(args.audio, args.model, args.language, tmpdir, initial_prompt)
         if args.keep_srt:
             saved_srt = Path(args.output).with_suffix(".srt")
             shutil.copy(srt_path, saved_srt)

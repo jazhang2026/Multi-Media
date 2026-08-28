@@ -1,7 +1,7 @@
 # Multi-Media
  All multi media projects
 
- **归真** 是我与 Deepseek AI 一起创作的小说. 使用 Edge TTS 生成音频， ChatGPT Images 生成 图像, MoviePy 合成视频.
+ **归真** 是我与 Deepseek AI 一起创作的小说. 使用 Edge TTS 生成音频， ChatGPT Images 和 Gemini 2.5 Image 生成 图像, MoviePy 合成视频.
  
  视频链接：
  https://www.youtube.com/@jazhang-b7x
@@ -104,6 +104,6 @@ Run from the 归真 directory:
 source ../.venv/bin/activate
 python3 add_subtitles.py \
   --video 1/story_video.mp4 \
-  --audio 1/chpt1_1.mp3 \
+  --audio 1/chpt.mp3 \
   --output 1/story_video_subtitled.mp4
 ```

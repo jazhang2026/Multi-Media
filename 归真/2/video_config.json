@@ -1,5 +1,5 @@
 {
-  "audio": "2/chpt2.mp3",
+  "audio": "2/chpt.mp3",
   "images": [
     "cover.png",
     "2/第二章_01_山上打猪草.png",
@@ -8,7 +8,7 @@
     "2/第二章_04_陪伴爷爷.png",
     "2/第二章_05_雪后山坡.png"
   ],
-  "output": "2/归真_2.mp4",
+  "output": "2/chpt2.mp4",
   "size": [1920, 1080],
   "fps": 24,
   "durations": [2, 188, 188, 188, 188, 188]
