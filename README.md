@@ -44,9 +44,10 @@ Parallel processing, run TTS for all chapters at once
 ```bash
 source .venv/bin/activate
 
-seq 4 6 | xargs -P 3 -I {} 
-bash -c 'echo "Start {}" && python3 make_video.py {}/video_config.json > /dev/null 2>&1 && echo "{
-} OK" || echo "{} FAILED"'
+seq 13 15 | xargs -P 3 -I {} bash -c 'echo "Start $1" && python3 make_video.py "$1/video_config.json" > /dev/null 2>&1 && echo "$1 OK" || echo "$1 FAILED"' _ {}
+
+seq 1 12 | xargs -P 3 -I {} bash -c 'echo "Start $1" && python3 make_video_with_subtitles.py "$1/video_config.json" --keep-srt > /dev/null 2>&1 && echo "$1 OK" || echo "$1 FAILED"' _ {}
+
 ```
 
 # 视频里面加字幕
@@ -62,9 +63,10 @@ pip install openai-whisper
 ```
 ### 2. 生成字幕文件
 ```bash
-whisper chpt1.mp3 --model small --language Chinese --output_format srt
+source .venv/bin/activate
+whisper 1/chpt.mp3 --model small --language Chinese --output_format srt --output_dir 1
 ```
-这会生成 chpt1.srt。
+这会生成 1/chpt.srt。
 
 模型大小：tiny 最快但准确度低，base 够用，small 中文效果更好。你的机器跑 small 应该没问题，就是慢一点。
 
@@ -102,6 +104,13 @@ Run from the 归真 directory:
 
 ```bash
 source ../.venv/bin/activate
+python3 add_subtitles.py \
+  --video 1/chpt1.mp4 \
+  --audio 1/chpt.mp3 \
+  --text 1/tts.txt \
+  --model medium \
+  --output 1/chpt1_subtitled.mp4
+
 python3 add_subtitles.py \
   --video 1/story_video.mp4 \
   --audio 1/chpt.mp3 \
