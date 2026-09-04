@@ -1,0 +1,67 @@
+{
+  "_comment": "全书人物一致性档案：appearance 用于图片 prompt，voice 用于 Edge-TTS 配音",
+  "石头(童年)": {
+    "voice": "zh-CN-XiaoyiNeural",
+    "appearance": "a six-year-old boy with a round face, short black hair, wearing a neat clean grey cotton shirt"
+  },
+  "陈静远(成年)": {
+    "voice": "zh-CN-YunxiNeural",
+    "appearance": "a lean forty-year-old man in a plain dark suit, calm eyes, short black hair, neat clean clothes"
+  },
+  "母亲": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "appearance": "a gentle middle-aged rural woman, hair in a low bun, neat clean blue cotton clothes"
+  },
+  "王婶": {
+    "voice": "zh-CN-YunxiaNeural",
+    "appearance": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes"
+  },
+  "父亲": {
+    "voice": "zh-CN-YunjianNeural",
+    "appearance": "an old thin man with white hair and a weathered face, dark cotton jacket, neat clean clothes"
+  },
+  "爷爷": {
+    "voice": "zh-CN-YunjianNeural",
+    "appearance": "an old dying man lying on a brick bed, thin, gray hair, sunken eyes, neat clean clothes"
+  },
+  "建国": {
+    "voice": "zh-CN-YunxiNeural",
+    "appearance": "a sturdy teenage boy with short hair, neat clean cotton shirt, light skin"
+  },
+  "建军": {
+    "voice": "zh-CN-YunxiNeural",
+    "appearance": "a strong young man with scarred hands, short hair, cotton work clothes, neat clean clothes"
+  },
+  "周小梅": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "appearance": "a young woman with two braids, gentle face, later a nurse in a white uniform, neat clean clothes"
+  },
+  "周老师": {
+    "voice": "zh-CN-YunjianNeural",
+    "appearance": "a thin fifty-year-old teacher wearing reading glasses, grey cotton jacket, neat clean clothes"
+  },
+  "曹副县长": {
+    "voice": "zh-CN-YunjianNeural",
+    "appearance": "a fifty-year-old deputy county chief in a dark suit, thin, meticulous, neat clean clothes"
+  },
+  "老赵": {
+    "voice": "zh-CN-YunxiNeural",
+    "appearance": "a middle-aged colleague in a plain cadre jacket, neat clean clothes"
+  },
+  "石头(少年)": {
+    "voice": "zh-CN-YunxiNeural",
+    "appearance": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform"
+  },
+  "陈静远(少年)": {
+    "voice": "zh-CN-YunxiNeural",
+    "appearance": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform"
+  },
+  "林志宏": {
+    "voice": "zh-CN-YunxiNeural",
+    "appearance": "a city boy of the same age, short hair, neat clean clothes, confident"
+  },
+  "周小梅(少女)": {
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "appearance": "a teenage girl with two short braids, round face, bright eyes, wearing a clean light blue cotton jacket"
+  }
+}

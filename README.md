@@ -116,3 +116,25 @@ python3 add_subtitles.py \
   --audio 1/chpt.mp3 \
   --output 1/story_video_subtitled.mp4
 ```
+
+
+A. 一次性准备（全局一致性）
+人物档案 归真/characters.json：常驻人物固定外貌描述 + Edge-TTS 音色（石头童年 XiaoyiNeural、陈静远成年 YunxiNeural、母亲 XiaoxiaoNeural、王婶 YunxiaNeural、建国/建军 YunxiNeural、周老师/父亲/曹副县长 YunjianNeural、周小梅 XiaoxiaoNeural 等）。
+场景档案：固定风格后缀＝水墨水彩（ink-wash watercolor illustration, muted earthy tones, 1960s Chinese countryside, consistent character design），常用场景关键词统一。
+音色表写入 gen_audio.py 的 VOICE，全书统一。
+B. 每章流程（第 N 章）
+文本准备（已有）：N/chpt.txt → N/script.txt → N/tts.txt。
+分镜头：生成 N/shots.json（scene / speaker / text / voice / image / prompt / gen_video）；文本逐字来自 N/tts.txt，末尾加「第N章 完。」，并生成 N/tts_full.txt。
+生成图片：Agnes 按场景生成水墨水彩图 → N/images_gen/scene_XX.png（每场景 1 张，镜头复用）。生成后你自己看文件确认整体效果（不做联系表）。
+生成动态视频片段：仅对关键/玄幻镜头（银光虫、幻象、热流走经络、静坐、乱石岗等，每章约 5–10 段）用 Agnes agnes-video 做 image-to-video → N/output/scene_XX.mp4。
+分角色配音：gen_audio.py --chapter N → N/audio/shot_XX.mp3（旁白 -8%~-12%，配合镜头间停顿，目标 10–15 分钟）。
+合成：assemble.py --chapter N → N/chptN_ai.mp4。静态图不加变焦（保持静态），动态只来自 Agnes 视频片段。
+同步字幕：make_srt_from_shots.py --chapter N → N/chptN_ai_synced.srt（按每段配音时长精确对时，字幕与语音同步）。
+烧录字幕：→ N/chptN_ai_full_sub.mp4。
+背景音乐：统一混入 output000.mp3（音量 18%，循环）→ 最终版 N/chptN_ai_full_sub_bgm.mp4。
+时长检查：若 < 10 分钟，加大旁白停顿或放慢语速，落在 10–15 分钟。
+C. 执行顺序
+先重做第 1 章（现有 9:23 不够 10 分钟，且要统一到水墨水彩 + 人物/音色档案 + 动态片段 + 音乐）。
+每章流程：出图 → 你自己看 → 确认 → 做视频。
+全部章节用 output000.mp3 作背景音乐。
+确认无误的话，我就从第 1 章开始执行（先建 characters.json，再出图给你看）。

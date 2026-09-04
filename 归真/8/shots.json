@@ -1,0 +1,1893 @@
+[
+  {
+    "scene": "片头",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "一九七八年，秋。",
+    "image": "8/images_gen/scene_01.png",
+    "prompt": "a 1978 Chinese county high school campus in autumn, a brick teaching building with two plane trees, bright daylight",
+    "gen_video": false,
+    "id": 1
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "县一中比公社中学大得多。陈静远用了三天才把校园走遍。青砖教学楼是民国年间建的，墙根长着青苔，砖缝里塞着陈年的灰。楼前两棵梧桐树，吴老师说过的，树干粗得一个人抱不过来。教学楼后面是操场，跑道是煤渣铺的，踩上去沙沙响。操场尽头有一排平房，是学生宿舍，再往后是食堂和锅炉房。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": true,
+    "id": 2,
+    "video": "8/output/scene_02.mp4"
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他走在校园里的时候，身体里的热自己会动。走到梧桐树下，热从腰上升起来，走到胸口，然后往肩膀走，往手臂走，走到指尖。指尖微微发热，像有什么东西从里面往外渗。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 3
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "走到煤渣跑道上的时候，热往下走，走大腿，走膝盖，走小腿，走到脚底。脚底踩在煤渣上，煤渣的粗糙透过鞋底传上来，和脚底的热碰在一起。热没有往外走，在脚底聚了一下，然后往回走。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 4
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "走到食堂门口的时候，热在胃的位置停了一下。不是饿，是身体认出了那个地方——那是吃饭的地方。热在胃那里打了一个转，然后继续走。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 5
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他把这些记住了。不是用脑子记的，是用身体记的。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 6
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "宿舍住了十二个人，来自全县各个公社。陈静远把铺盖放在靠窗的床位，从窗户看出去，能看见那两棵梧桐树的树梢。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 7
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他刚把褥子铺好，一个人扛着铺盖卷走进来，往他上铺一扔。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 8
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "咱俩又一块儿了。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 9
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "林志宏。他穿着那件洗得发白的蓝布褂子，黑框眼镜架在鼻梁上，镜片上蒙了一层灰。他把铺盖卷打开，褥子往上铺一甩，动作比在公社中学时利索多了。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 10
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "你爹送你来的？",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 11
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "嗯。送到门口就走了。他说县一中的宿舍比公社中学强，公社中学那通铺，翻个身能压着三个人。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 12
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远笑了一下。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 13
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "林志宏从上面探下头。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 14
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "我听说咱们班四十二个人，公社中学上来的就咱俩。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 15
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "嗯。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 16
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "其余的都是县城本地的。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 17
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远没说话。他把手放在窗台上。梧桐树的叶子密密地绿着，阳光从叶子的缝隙里漏下来，落在手背上，一点一点的。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 18
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "林志宏的声音从上面传下来。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 19
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "怕不怕？",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 20
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远想了想。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 21
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "不怕。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 22
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "林志宏把头缩回去了。过了一会儿，他又探下来。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 23
+  },
+  {
+    "scene": "初到县一中",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "我也不怕。",
+    "image": "8/images_gen/scene_02.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform walking through a county school campus past an old brick teaching building and plane trees, a city boy of the same age, short hair, neat clean clothes, confident carrying bedding beside him, autumn",
+    "gen_video": false,
+    "id": 24
+  },
+  {
+    "scene": "第一晚熄灯",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "第一晚熄灯后，宿舍里有人在小声说话。县城本地的学生互相认识，聊着暑假的事，谁家买了电视机，谁去了省城亲戚家。声音压得很低，但在黑暗里传得很清楚。",
+    "image": "8/images_gen/scene_03.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk holding a small radio to his ear, faint green glow, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 25
+  },
+  {
+    "scene": "第一晚熄灯",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远躺在铺上。身体里的热自己走着，从腰上出发，走胸口，走四肢，走回来。走到胸口的时候，热在那里停了一下。不是被挡住了，是像水流到一个陌生的岔路口，不知道往哪边拐。",
+    "image": "8/images_gen/scene_03.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk holding a small radio to his ear, faint green glow, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 26
+  },
+  {
+    "scene": "第一晚熄灯",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他等着。过了一会儿，热自己选了一条路，继续走下去了。",
+    "image": "8/images_gen/scene_03.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk holding a small radio to his ear, faint green glow, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": true,
+    "id": 27,
+    "video": "8/output/scene_27.mp4"
+  },
+  {
+    "scene": "第一晚熄灯",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "上铺传来林志宏翻身的声音。然后一只手从上铺垂下来，手里攥着那个砖头大小的收音机。收音机的光在黑暗里亮着，幽幽的绿。",
+    "image": "8/images_gen/scene_03.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk holding a small radio to his ear, faint green glow, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 28
+  },
+  {
+    "scene": "第一晚熄灯",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远接过来，贴在耳朵上。新闻，天气预报，然后是音乐。他把收音机贴在耳朵上，感觉到声音从耳朵往里走，走得很深，走到那个他说不上来的地方。那个地方微微震动着，像有什么东西在那里醒着。",
+    "image": "8/images_gen/scene_03.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk holding a small radio to his ear, faint green glow, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 29
+  },
+  {
+    "scene": "第一晚熄灯",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "音乐是一首他没有听过的曲子。很慢，很轻，像水从高处一滴一滴落下来。",
+    "image": "8/images_gen/scene_03.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk holding a small radio to his ear, faint green glow, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 30
+  },
+  {
+    "scene": "第一晚熄灯",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他听了很久。直到收音机里的声音变成沙沙的电流声，才把它递回去。",
+    "image": "8/images_gen/scene_03.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk holding a small radio to his ear, faint green glow, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 31
+  },
+  {
+    "scene": "英语课",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "课程紧。早晨六点起床铃响，十五分钟后到操场集合，跑步，做操，然后早读。上午四节课，下午三节，晚上两节自习。",
+    "image": "8/images_gen/scene_04.png",
+    "prompt": "a classroom, a young teacher with a side-parted hairstyle writing Good morning, class in white chalk on a blackboard, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk listening",
+    "gen_video": false,
+    "id": 32
+  },
+  {
+    "scene": "英语课",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "英语课是陈静远第一次正经学。公社中学没有英语老师，他只认得二十六个字母。县一中的英语老师姓秦，三十来岁，梳一个偏分头，说话的时候嘴角微微往上翘，像随时要笑。",
+    "image": "8/images_gen/scene_04.png",
+    "prompt": "a classroom, a young teacher with a side-parted hairstyle writing Good morning, class in white chalk on a blackboard, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk listening",
+    "gen_video": false,
+    "id": 33
+  },
+  {
+    "scene": "英语课",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他在黑板上写了一行弯弯曲曲的字：Good morning, class。",
+    "image": "8/images_gen/scene_04.png",
+    "prompt": "a classroom, a young teacher with a side-parted hairstyle writing Good morning, class in white chalk on a blackboard, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk listening",
+    "gen_video": false,
+    "id": 34
+  },
+  {
+    "scene": "英语课",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远跟着念。念的时候，他感觉到身体里的热走的路和念汉字不一样。念汉字，热走的是竖的路——从腰上往上走，或者往下走。念英语，热走的是横的路——从胸口往两边走，走肩膀，走手臂，走到手指。从手指绕一圈，再走回来。",
+    "image": "8/images_gen/scene_04.png",
+    "prompt": "a classroom, a young teacher with a side-parted hairstyle writing Good morning, class in white chalk on a blackboard, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk listening",
+    "gen_video": true,
+    "id": 35,
+    "video": "8/output/scene_35.mp4"
+  },
+  {
+    "scene": "英语课",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "秦老师教音标的时候，他发现不同的音标，热走到的位置不一样。前元音，热走到舌尖。后元音，热走到舌根。双元音，热从舌尖走到舌根，再走回来。",
+    "image": "8/images_gen/scene_04.png",
+    "prompt": "a classroom, a young teacher with a side-parted hairstyle writing Good morning, class in white chalk on a blackboard, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk listening",
+    "gen_video": false,
+    "id": 36
+  },
+  {
+    "scene": "英语课",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他把这些记住了。",
+    "image": "8/images_gen/scene_04.png",
+    "prompt": "a classroom, a young teacher with a side-parted hairstyle writing Good morning, class in white chalk on a blackboard, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk listening",
+    "gen_video": false,
+    "id": 37
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "历史老师姓马，五十多岁，瘦，上课不带课本，往讲台上一站就开始讲。他的声音不大，但教室最后一排也听得清。",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": false,
+    "id": 38
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远发现，马老师讲课的时候，他自己身体里的热会跟着所讲的内容走。讲到林则徐虎门销烟的时候，热从腰上升起来，走到胸口，停住，像一根柱子立在那里。讲到《南京条约》的时候，那根柱子往下沉，沉到腰上，和那颗心跳汇在一起，然后继续往下沉，沉到脚底。脚底发凉。不是冷，是沉。",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": true,
+    "id": 39,
+    "video": "8/output/scene_39.mp4"
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "讲到五四运动的时候，热从脚底一下子升上来。升得很快，像水烧开了往上冲。冲过小腿，冲过大腿，冲过腰，冲过胸口，冲过喉咙，冲过头顶。冲出头顶的时候，头皮一阵发麻。",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": false,
+    "id": 40
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "马老师",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "陈静远。",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": false,
+    "id": 41
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他回过神来。马老师站在讲台上看着他。",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": true,
+    "id": 42,
+    "video": "8/output/scene_42.mp4"
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "马老师",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "你来说说，五四运动的意义是什么？",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": false,
+    "id": 43
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远站起来。教室里安静了。他能感觉到同学们的目光落在自己身上。目光落在肩膀上的时候，肩膀微微发紧。落在脸上的时候，脸微微发热。",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": false,
+    "id": 44
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他站了几秒钟。身体里的热还在走。从头顶慢慢往下降，降过额头，降过眉心，降过鼻梁，降到喉咙。",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": false,
+    "id": 45
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "热降到喉咙的时候，他张了张嘴。",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": false,
+    "id": 46
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "青年醒了。",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": false,
+    "id": 47
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "马老师的眉毛动了一下。",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": false,
+    "id": 48
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "马老师",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "什么意思？",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": false,
+    "id": 49
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "以前的人，被压着，不知道自己是醒着还是睡着。五四以后，醒过来了。知道自己醒着。",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": false,
+    "id": 50
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "马老师看着他，看了好一会儿。",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": false,
+    "id": 51
+  },
+  {
+    "scene": "历史课马老师",
+    "speaker": "马老师",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "坐下。",
+    "image": "8/images_gen/scene_05.png",
+    "prompt": "a thin fifty-year-old teacher standing at a podium lecturing without a book, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform at a desk, classmates listening",
+    "gen_video": false,
+    "id": 52
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "下课后，马老师把陈静远叫到办公室。办公室在教学楼二层，窗户对着那两棵梧桐树。",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 53
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "马老师",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "你读过什么书？",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 54
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远想了想。",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 55
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "《道德经》。",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 56
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "马老师的手顿了一下。",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 57
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "马老师",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "谁教你的？",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 58
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "公社小学的周老师。",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 59
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "马老师点了点头。他拧开茶杯，喝了一口。",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 60
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "马老师",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "你说的青年醒了，是自己想的？",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 61
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "是。",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 62
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "马老师",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "怎么想到的？",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 63
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远看着窗外的梧桐树。他感觉到自己身体里的热在动。从腰上升起来，走到胸口。在胸口停了一下，然后往喉咙走。",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 64
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "上课的时候，您讲到五四，我这里冲了一下。",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 65
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他指了指自己的头顶。",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 66
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "马老师看着他。看了很久。",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 67
+  },
+  {
+    "scene": "马老师办公室",
+    "speaker": "马老师",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "你这种学生，我很多年没见过了。",
+    "image": "8/images_gen/scene_06.png",
+    "prompt": "a school office on the second floor with a window facing two plane trees, a thin old teacher talking to a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 68
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "开学第二个星期，县一中组织了新生篮球赛。林志宏第一个报了名。他拉着陈静远。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 69
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "咱俩在公社中学打赢了农技站，还怕他们？",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 70
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "比赛那天下午，操场边上站满了人。县城本地的学生明显更会打球，热身的时候，球在他们手里传来传去，快得眼花。有个高个子，叫赵援朝，能单手抓球，手腕一抖，球就旋进篮筐，连篮网都不怎么动。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 71
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "林志宏站在陈静远旁边，推了推眼镜。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 72
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "那个赵援朝，据说是县少年队的。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 73
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远没说话。他把手张开，又合上。身体里的热自己走了起来，从腰上升起，走胸口，走肩膀，走手臂，走手掌，走指尖。走到指尖的时候，指尖微微发热。他把热收回来，又放出去。收了三次，指尖热得发烫了。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": true,
+    "id": 74,
+    "video": "8/output/scene_74.mp4"
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "开场以后，赵援朝果然厉害。他在篮下接到球，转身，起跳，球进。动作干脆得像机器。一班被他一个人打了六比零。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 75
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "林志宏叫了暂停。几个人围在一起，呼哧呼哧喘气。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 76
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "盯不住他。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 77
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "林志宏擦了擦眼镜片上的汗。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 78
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "陈静远，你防他。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 79
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远抬头看了他一眼。林志宏把眼镜重新戴上，镜片后面的眼睛亮着。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 80
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "你反应快。公社中学那场，你断了好几个球。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 81
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远点了点头。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": true,
+    "id": 82,
+    "video": "8/output/scene_82.mp4"
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "重新上场，陈静远站到赵援朝旁边。赵援朝比他高半个头，肩膀宽出一截，站在那儿像半堵墙。球传进来，赵援朝接住，肩膀往左一沉，身体往右转——假动作。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 83
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "但陈静远没有往左扑。他看见赵援朝肩膀沉下去的那一瞬间，右脚的脚跟微微抬起来了。身体要往右转的时候，重心会先移到左脚，右脚跟才会抬起来。他不知道自己是怎么看见的，但他看见了。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": true,
+    "id": 84,
+    "video": "8/output/scene_84.mp4"
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "赵援朝右转，起跳。陈静远同时起跳。他的手按在球上。球从赵援朝指尖滑出去，变了方向，砸在篮板上弹回来。林志宏抢到球，甩给前场。球进了。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 85
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "操场上安静了一瞬，然后炸开。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 86
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "赵援朝落地，看了陈静远一眼。没说话，往回跑了。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 87
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那一球之后，场上的气变了。赵援朝不再硬打，开始传球。但陈静远发现，自己不只是能看清对手的动作。他还能听见。不是用耳朵听，是用身体听。赵援朝运球的时候，球砸在地面上的声音，和别人不一样——更重，更闷。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 88
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那个声音从地面传过来，穿过鞋底，走到他的脚底。从脚底往上走，走小腿，走大腿，走腰上。走到腰上的时候，那颗心跳一下，然后热从腰上往外走，走到四肢。走到腿的时候，腿自己动了。不是他让腿动的，是腿自己知道要往哪边跑。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 89
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "下半场打到一半，他断了赵援朝三个球。每一次都不是事先想好的。是身体先动了，脑子才跟上。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 90
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "最后一次断球，球从他指尖飞出去，飞向边线。他冲过去，在球出界前把它捞回来。身体冲出边线的那一瞬间，他感觉到热从腰上涌起来，涌到腰侧，涌到肋骨。身体在空中拧了一下——他自己都不知道自己能拧这一下——把球甩回场内。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 91
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他摔在地上。煤渣跑道，小石子嵌进手掌里。他撑起上半身，看见林志宏接到球，上篮，球进。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 92
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "手掌破了皮，渗出血珠。他把手掌翻过来，看着那些血珠。身体里的热自己涌过来了。从手腕涌过来，涌到手掌，涌到每一个擦破的地方。热在那里聚着，转着，把伤口裹住。血不流了。疼也轻了。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 93
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "林志宏跑过来，伸手拉他。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 94
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "没事吧？",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 95
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远站起来，拍了拍身上的煤渣。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 96
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "没事。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 97
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "终场，一班赢了两分。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 98
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "人群散开的时候，赵援朝走过来。他站住了，看着陈静远。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 99
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "赵援朝",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "你反应真快。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 100
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "你动作快。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 101
+  },
+  {
+    "scene": "新生篮球赛",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "赵援朝笑了一下。他伸出手，陈静远也伸出手。两只手握了一下。赵援朝的手很大，把陈静远的手整个包住了。",
+    "image": "8/images_gen/scene_07.png",
+    "prompt": "a basketball game on a school playground, both teams of players all wearing matching basketball jerseys and shorts, a teenage boy in a jersey defending a tall player in a jersey, a basketball in the air between them, crowd of students watching, coal-ash track",
+    "gen_video": false,
+    "id": 102
+  },
+  {
+    "scene": "宿舍夜谈",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那天晚上，陈静远躺在铺上，手掌上的伤口贴着一块胶布。",
+    "image": "8/images_gen/scene_08.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk with a bandaged palm, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 103
+  },
+  {
+    "scene": "宿舍夜谈",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "林志宏从上铺探下头。",
+    "image": "8/images_gen/scene_08.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk with a bandaged palm, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 104
+  },
+  {
+    "scene": "宿舍夜谈",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "陈静远。",
+    "image": "8/images_gen/scene_08.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk with a bandaged palm, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 105
+  },
+  {
+    "scene": "宿舍夜谈",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "嗯。",
+    "image": "8/images_gen/scene_08.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk with a bandaged palm, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 106
+  },
+  {
+    "scene": "宿舍夜谈",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "你今天摔那一下，我以为你要破相了。",
+    "image": "8/images_gen/scene_08.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk with a bandaged palm, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 107
+  },
+  {
+    "scene": "宿舍夜谈",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "没有。",
+    "image": "8/images_gen/scene_08.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk with a bandaged palm, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 108
+  },
+  {
+    "scene": "宿舍夜谈",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "你在空中怎么拧过来的？我看都没看清。",
+    "image": "8/images_gen/scene_08.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk with a bandaged palm, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 109
+  },
+  {
+    "scene": "宿舍夜谈",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远想了想。",
+    "image": "8/images_gen/scene_08.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk with a bandaged palm, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 110
+  },
+  {
+    "scene": "宿舍夜谈",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "我也不知道。",
+    "image": "8/images_gen/scene_08.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk with a bandaged palm, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 111
+  },
+  {
+    "scene": "宿舍夜谈",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "这是实话。他真的不知道。身体自己拧过来的。",
+    "image": "8/images_gen/scene_08.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk with a bandaged palm, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 112
+  },
+  {
+    "scene": "宿舍夜谈",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "林志宏把头缩回去了。过了一会儿，他的声音又传下来。",
+    "image": "8/images_gen/scene_08.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk with a bandaged palm, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 113
+  },
+  {
+    "scene": "宿舍夜谈",
+    "speaker": "林志宏",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "下周和六班打。他们有个更厉害的。",
+    "image": "8/images_gen/scene_08.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk with a bandaged palm, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 114
+  },
+  {
+    "scene": "宿舍夜谈",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远把贴胶布的那只手放在胸口。手掌里的热还在，一下一下地跳着，和腰上那颗心跳一个节奏。",
+    "image": "8/images_gen/scene_08.png",
+    "prompt": "a dormitory at night, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform lying on the lower bunk with a bandaged palm, a city boy of the same age, short hair, neat clean clothes, confident leaning over from the upper bunk above him",
+    "gen_video": false,
+    "id": 115
+  },
+  {
+    "scene": "家信与小莲纸条",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那年冬天，陈静远收到一封家信。信是建国写的。建国的字方方正正的，一笔一划很用力。",
+    "image": "8/images_gen/scene_09.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on his bunk reading a letter by dim light, holding a torn notebook paper with a child's handwriting",
+    "gen_video": false,
+    "id": 116
+  },
+  {
+    "scene": "家信与小莲纸条",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "信里说：家里都好。爹的腰冬天犯了，贴了膏药，好些了。妈让你多穿衣服。建军在县城学木匠，在城东的家具社，让你有空去看看。小莲上小学了，会写自己的名字了，写了好多遍，让你看。",
+    "image": "8/images_gen/scene_09.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on his bunk reading a letter by dim light, holding a torn notebook paper with a child's handwriting",
+    "gen_video": false,
+    "id": 117
+  },
+  {
+    "scene": "家信与小莲纸条",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "信纸里夹着一张纸条。巴掌大，从作业本上撕下来的。上面歪歪扭扭写着三个字：陈小莲。陈字的耳朵旁写得太大，莲字的草字头飞起来了，像两棵歪着长的草。",
+    "image": "8/images_gen/scene_09.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on his bunk reading a letter by dim light, holding a torn notebook paper with a child's handwriting",
+    "gen_video": false,
+    "id": 118
+  },
+  {
+    "scene": "家信与小莲纸条",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远把纸条拿在手里。他把纸条贴在胸口。纸条很薄，手指能感觉到纸面的纹路。",
+    "image": "8/images_gen/scene_09.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on his bunk reading a letter by dim light, holding a torn notebook paper with a child's handwriting",
+    "gen_video": false,
+    "id": 119
+  },
+  {
+    "scene": "家信与小莲纸条",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "胸口那个地方——吴老师和父亲说话时会攥住的地方——没有攥住。是另一种感觉。像有什么东西从纸条上渗出来，渗过衣服，渗过皮肤，渗到里面。",
+    "image": "8/images_gen/scene_09.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on his bunk reading a letter by dim light, holding a torn notebook paper with a child's handwriting",
+    "gen_video": false,
+    "id": 120
+  },
+  {
+    "scene": "家信与小莲纸条",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他把纸条夹进《朱自清散文选》里，夹在《背影》那一页。",
+    "image": "8/images_gen/scene_09.png",
+    "prompt": "a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on his bunk reading a letter by dim light, holding a torn notebook paper with a child's handwriting",
+    "gen_video": false,
+    "id": 121
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那个星期天，陈静远去了城东。家具社在一条巷子里，门口堆着木料，老远就闻到刨花的味道。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 122
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远站在门口，听见里面锯木头的声音。嗤——嗤——嗤——",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 123
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "建军正蹲在一张长凳旁边刨木板。刨子推过去，刨花从刨口卷出来，薄薄的，带着木头的纹理。建军比在家的时候高了，也瘦了，肩膀的骨头从褂子下面顶出来。他的手上全是老茧，指节粗大。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 124
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "哥。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 125
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "建军抬起头。看见是陈静远，愣了一下。然后他站起来，拍了拍身上的刨花。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 126
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "建军",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "你怎么来了。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 127
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "来看看你。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 128
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "建军把刨子放下，在裤子上擦了擦手。他打量着陈静远，从头看到脚。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 129
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "建军",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "你高了。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 130
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "你也高了。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 131
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "建军笑了一下。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 132
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他们站在木料堆旁边说话。陈静远问学手艺的事，建军问学校的事。说了一会儿，没什么话说了。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 133
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "沉默的时候，陈静远感觉到自己身体里的热在走。从腰上出发，走胸口，走手臂，走手掌，走指尖。热走到指尖的时候，停住了。指尖对着建军的方向，微微发麻。像有什么东西想从指尖走出去，但走不出去。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 134
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "建军看了看自己的手。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 135
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "建军",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "师傅叫我了。你回去吧。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 136
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远点点头。他走了几步，又回头。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": true,
+    "id": 137,
+    "video": "8/output/scene_137.mp4"
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "小莲会写名字了。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 138
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "建军的脸上动了一下。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 139
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "建军",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "写得咋样？",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 140
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "挺好的。草字头飞起来了。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 141
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "建军低下头，用脚踢了踢地上的刨花。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 142
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "建军",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "她从小就手笨。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 143
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "不笨。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 144
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "建军没说话。陈静远走了。走出巷子的时候，他回头看了一眼。家具社的门敞着，里面黑洞洞的，看不见建军。只有锯木头的声音，嗤——嗤——嗤——从里面传出来。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 145
+  },
+  {
+    "scene": "城东家具社",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他把手放在胸口。刚才指尖麻的地方，现在不麻了。但指尖是凉的。",
+    "image": "8/images_gen/scene_10.png",
+    "prompt": "a furniture workshop in a lane, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing at the door watching his brother planing wood, wood shavings curling, both brothers wearing plain grey cotton clothes, sawdust in the light",
+    "gen_video": false,
+    "id": 146
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那年寒假，陈静远回了陈家湾。枣树还是老样子，叶子落光了，枝条伸向灰蒙蒙的天。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 147
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "母亲在灶房烧火，看见他进来，手在围裙上擦了擦，站起来。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 148
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "母亲",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "text": "瘦了。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 149
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "没瘦。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 150
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "母亲",
+    "voice": "zh-CN-XiaoxiaoNeural",
+    "text": "学校吃得饱？",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 151
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "吃得饱。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 152
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "母亲看了他一会儿，转身继续烧火。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 153
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "小莲从外面跑进来。她穿着建军的旧棉袄，袖口还是挽了两道，但比去年短了一截——不是袖子短了，是人长了。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 154
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "小莲",
+    "voice": "zh-CN-XiaoyiNeural",
+    "text": "哥！",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 155
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "她从书包里掏出一个本子，翻到第一页，举到他面前。上面写着陈小莲，三个字，歪歪扭扭的，陈字的耳朵旁还是太大，莲字的草字头还是飞起来。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 156
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "小莲",
+    "voice": "zh-CN-XiaoyiNeural",
+    "text": "我会写了！",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 157
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "写得不错。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 158
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "小莲",
+    "voice": "zh-CN-XiaoyiNeural",
+    "text": "真的？",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 159
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "真的。草字头像飞起来一样。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 160
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "小莲笑了。她笑的时候眼睛弯成月牙，缺了一颗门牙，黑洞洞的。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 161
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远从口袋里掏出一样东西。一支铅笔，带橡皮头的。县城百货大楼买的，花了一毛钱。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 162
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "给你。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 163
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "小莲接过铅笔，翻来覆去地看。橡皮头是粉红色的，她用手指摸了摸，又放到鼻子下面闻了闻。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 164
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "小莲",
+    "voice": "zh-CN-XiaoyiNeural",
+    "text": "香的。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 165
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那天晚上，陈静远和父亲坐在院子里。冬天的夜是硬的。父亲坐在门槛上抽旱烟，烟头的红光在黑暗里一明一灭。陈静远坐在他旁边。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 166
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "父亲忽然问。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 167
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "父亲",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "学校教得好不好？",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 168
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "好。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 169
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "父亲",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "老师好不好？",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 170
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "陈静远",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "好。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 171
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "父亲抽了一口烟，吐出来。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": true,
+    "id": 172,
+    "video": "8/output/scene_172.mp4"
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "父亲",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "你爷爷那辈人，没人念过书。你爹这辈，念了两年，认几个字，会写名字。你念到高中了。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 173
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他顿了顿。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 174
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "父亲",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "好好念。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 175
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远嗯了一声。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 176
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "父亲不再说话了。烟抽完了，他在鞋底上磕了磕烟锅，站起来。站起来的时候，他的手在陈静远肩膀上按了一下。只是一下，很快就收回去了。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 177
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "但那一按，陈静远感觉到了。父亲的手很重，掌心全是老茧。按在肩膀上的时候，有一股热从那只手传过来。从肩膀往里走，走脖子，走后背，走腰上。和腰上那颗心跳汇在一起。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 178
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "父亲走进屋里去了。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 179
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远一个人坐在院子里。枣树的枝条在头顶，黑黢黢的。他把手放在肩膀上——父亲按过的地方。那里已经不热了。但里面有什么东西还在。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 180
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他闭上眼睛。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": true,
+    "id": 181,
+    "video": "8/output/scene_181.mp4"
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "身体里的热自己走了起来。从腰上出发，走胸口，走肩膀，走手臂，走手掌，走指尖。走到指尖的时候，指尖热了。热从指尖走出去，走到枣树的树干上。树干是凉的，热走进去，慢慢散开。散成很薄很薄的一层，贴着树皮往里渗。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 182
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他感觉到那层热渗进去了。渗过树皮，渗过木质，渗到树心。树心是空的——不是空心，是像一间屋子，里面有什么东西住着。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 183
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "热碰到那个东西的时候，那个东西动了一下。然后热散掉了。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 184
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈静远睁开眼睛。枣树的枝条还是那样，黑黢黢的。芽苞还没出来。但他知道，它们在里面。等着。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 185
+  },
+  {
+    "scene": "寒假回家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他把手收回来。手心是热的。",
+    "image": "8/images_gen/scene_11.png",
+    "prompt": "a rural courtyard in winter, a fifteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting with his father on the doorstep, the father smoking a pipe, bare jujube tree above",
+    "gen_video": false,
+    "id": 186
+  },
+  {
+    "scene": "片尾",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "腰上那颗心跳着。一下。一下。很慢。但更深了。",
+    "image": "8/images_gen/scene_12.png",
+    "prompt": "a bare jujube tree in a rural courtyard at night, moonlight, the hand of a teenage boy in a grey student uniform touching the trunk",
+    "gen_video": false,
+    "id": 187
+  },
+  {
+    "scene": "片尾",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "第八章 完。",
+    "image": "8/images_gen/scene_12.png",
+    "prompt": "a bare jujube tree in a rural courtyard at night, moonlight, the hand of a teenage boy in a grey student uniform touching the trunk",
+    "gen_video": false,
+    "id": 188
+  }
+]

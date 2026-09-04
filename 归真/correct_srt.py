@@ -69,9 +69,9 @@ def write_srt(segments, path):
 def build_source_text(path):
     with open(path, "r", encoding="utf-8") as f:
         lines = f.read().splitlines()
-    # Concatenate non-empty lines; strip ASCII dialogue quotes because Whisper
-    # subtitles don't render spoken quotation marks.
-    return "".join(line.strip() for line in lines if line.strip()).replace('"', '')
+    # Concatenate non-empty lines; strip quotation marks (ASCII + Chinese) because
+    # Whisper subtitles don't render spoken quotation marks.
+    return "".join(line.strip() for line in lines if line.strip()).replace('"', '').replace('“', '').replace('”', '').replace('‘', '').replace('’', '')
 
 
 def nearest_punct_boundary(source, pos, max_offset=25):

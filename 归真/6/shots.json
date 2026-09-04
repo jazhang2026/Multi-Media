@@ -1,0 +1,787 @@
+[
+  {
+    "scene": "片头",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "一九七六年，秋。",
+    "image": "6/images_gen/scene_01.png",
+    "prompt": "a 1976 Chinese county town in autumn, a middle school with brick buildings, bright daylight",
+    "gen_video": false,
+    "id": 1
+  },
+  {
+    "scene": "毛主席逝世",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头十四岁那年秋天，毛主席逝世了。消息是傍晚传到公社的。石头正在教室里上自习，听见外面有人喊了一声，没听清喊的什么。",
+    "image": "6/images_gen/scene_02.png",
+    "prompt": "a classroom, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting at a desk, a female teacher with red-rimmed eyes writing in white chalk on a blackboard, the blackboard reads two lines: 伟大的领袖和导师毛泽东主席 on the first line and 永垂不朽 on the second line, solemn silence",
+    "gen_video": false,
+    "id": 2,
+    "image_url": "https://platform-outputs.agnes-ai.space/images/t2i/task_voqHxVt7fgCP4kufXHGeWnzC8SIsh9GE/output_5ea59aa862264cf79e762676fe19ecea.png"
+  },
+  {
+    "scene": "毛主席逝世",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "方老师走进来，眼睛是红的，在黑板上写了一行字：伟大的领袖和导师毛泽东主席永垂不朽。",
+    "image": "6/images_gen/scene_02.png",
+    "prompt": "a classroom, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting at a desk, a female teacher with red-rimmed eyes writing in white chalk on a blackboard, the blackboard reads two lines: 伟大的领袖和导师毛泽东主席 on the first line and 永垂不朽 on the second line, solemn silence",
+    "gen_video": false,
+    "id": 3,
+    "image_url": "https://platform-outputs.agnes-ai.space/images/t2i/task_voqHxVt7fgCP4kufXHGeWnzC8SIsh9GE/output_5ea59aa862264cf79e762676fe19ecea.png"
+  },
+  {
+    "scene": "毛主席逝世",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "教室里安静了几秒钟。然后有人哭出声来。",
+    "image": "6/images_gen/scene_02.png",
+    "prompt": "a classroom, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting at a desk, a female teacher with red-rimmed eyes writing in white chalk on a blackboard, the blackboard reads two lines: 伟大的领袖和导师毛泽东主席 on the first line and 永垂不朽 on the second line, solemn silence",
+    "gen_video": false,
+    "id": 4,
+    "image_url": "https://platform-outputs.agnes-ai.space/images/t2i/task_voqHxVt7fgCP4kufXHGeWnzC8SIsh9GE/output_5ea59aa862264cf79e762676fe19ecea.png"
+  },
+  {
+    "scene": "毛主席逝世",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头坐在座位上，看着黑板上的字。他感觉到自己身体里有什么东西在往下沉。不是热，是另一种感觉。从胸口开始，慢慢往下沉，沉到肚子，沉到腰上。腰上那颗心跳着，比平时慢。不是变弱了，是变重了。每跳一下，都像有什么东西从高处落下来，落到底，闷闷地震一下。",
+    "image": "6/images_gen/scene_02.png",
+    "prompt": "a classroom, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting at a desk, a female teacher with red-rimmed eyes writing in white chalk on a blackboard, the blackboard reads two lines: 伟大的领袖和导师毛泽东主席 on the first line and 永垂不朽 on the second line, solemn silence",
+    "gen_video": true,
+    "id": 5,
+    "image_url": "https://platform-outputs.agnes-ai.space/images/t2i/task_voqHxVt7fgCP4kufXHGeWnzC8SIsh9GE/output_5ea59aa862264cf79e762676fe19ecea.png",
+    "video": "6/output/scene_05.mp4"
+  },
+  {
+    "scene": "毛主席逝世",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他从来没有过这种感觉。不是疼，不是难受，是一种说不出的沉。他把手放在膝盖上，等着。过了一会儿，那股沉慢慢化开了。从腰上往四周化，化到双腿，化到胸口，化到肩膀。化开以后，原来的位置留下一种空。不是空荡荡的空，是像一间屋子，里面的东西搬走了，但墙还在，梁还在，空气还在。",
+    "image": "6/images_gen/scene_02.png",
+    "prompt": "a classroom, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting at a desk, a female teacher with red-rimmed eyes writing in white chalk on a blackboard, the blackboard reads two lines: 伟大的领袖和导师毛泽东主席 on the first line and 永垂不朽 on the second line, solemn silence",
+    "gen_video": false,
+    "id": 6,
+    "image_url": "https://platform-outputs.agnes-ai.space/images/t2i/task_voqHxVt7fgCP4kufXHGeWnzC8SIsh9GE/output_5ea59aa862264cf79e762676fe19ecea.png"
+  },
+  {
+    "scene": "追悼会哀乐",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "追悼会那天，公社的广播放着哀乐。石头站在操场上，和所有人一样低着头。哀乐从高音喇叭里传出来，声音很大。",
+    "image": "6/images_gen/scene_03.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing with head bowed on a school playground during a memorial, loudspeaker on a pole, everyone in mourning",
+    "gen_video": false,
+    "id": 7
+  },
+  {
+    "scene": "追悼会哀乐",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他低着头，感觉到哀乐的震动从脚底传上来。喇叭的声音通过地面传过来，脚底微微发麻。麻从脚底往上走，走小腿，走膝盖，走大腿，走到腰上。走到腰上的时候，那颗心跳了一下，然后继续往上走。走胸口，走喉咙，走头顶。",
+    "image": "6/images_gen/scene_03.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing with head bowed on a school playground during a memorial, loudspeaker on a pole, everyone in mourning",
+    "gen_video": true,
+    "id": 8,
+    "video": "6/output/scene_08.mp4"
+  },
+  {
+    "scene": "追悼会哀乐",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "走到头顶的时候，他忽然觉得头皮发紧。不是冷，是紧。像有什么东西从四面八方往头顶压，压得很轻，但不停。",
+    "image": "6/images_gen/scene_03.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing with head bowed on a school playground during a memorial, loudspeaker on a pole, everyone in mourning",
+    "gen_video": false,
+    "id": 9
+  },
+  {
+    "scene": "追悼会哀乐",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他把注意力放到那个紧的地方。紧的地方微微跳着，和他腰上那颗心跳一个节奏。",
+    "image": "6/images_gen/scene_03.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing with head bowed on a school playground during a memorial, loudspeaker on a pole, everyone in mourning",
+    "gen_video": false,
+    "id": 10
+  },
+  {
+    "scene": "追悼会哀乐",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "哀乐停了。头顶的紧慢慢松了。从头皮往四周松，松到额头，松到耳朵，松到后脑勺。松完以后，头顶那个地方有一点麻。不是难受的麻，是通了以后那种麻。",
+    "image": "6/images_gen/scene_03.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform standing with head bowed on a school playground during a memorial, loudspeaker on a pole, everyone in mourning",
+    "gen_video": false,
+    "id": 11
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那年冬天，陈家湾出了一件事。王婶的男人，在粮站工作的那个，被带走了。说是贪污。具体贪了多少，没人说得清。石头放假回家的时候，母亲跟他说了这事。母亲说的时候声音压得很低，说完叹了一口气。",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": false,
+    "id": 12
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头去了王婶家。院门虚掩着，他推门进去。院子里的鸡不在了。王婶坐在灶房门口的小板凳上，手里拿着那只纳了一半的鞋底，但针没动，就那么拿着。她看见石头，愣了一会儿才认出来。",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": false,
+    "id": 13
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "王婶",
+    "voice": "zh-CN-YunxiaNeural",
+    "text": "石头啊。",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": false,
+    "id": 14
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头蹲在她旁边。他不知道自己为什么要蹲下来。只是觉得站着不对。",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": false,
+    "id": 15
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "王婶又开始纳鞋底。针穿过鞋底，嗤——嗤——声音和以前一样，但慢了。",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": false,
+    "id": 16
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "王婶",
+    "voice": "zh-CN-YunxiaNeural",
+    "text": "石头，你说人这一辈子，到底是咋回事。",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": false,
+    "id": 17
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头蹲着，看着院子里空了的鸡窝。鸡窝是用土坯垒的，里面铺着稻草。鸡不在了，稻草还是原来的样子。",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": true,
+    "id": 18,
+    "video": "6/output/scene_18.mp4"
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他感觉到自己身体里的热在动。不是他自己让它动的。是它自己动的。热从腰上升起来，走到胸口。在胸口停了一下，然后往喉咙走。走到喉咙的时候，他张了张嘴，说了一句话。",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": false,
+    "id": 19
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "石头",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "水往低处走。",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": true,
+    "id": 20,
+    "video": "6/output/scene_20.mp4"
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "王婶的手停了。她转过头看石头。",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": false,
+    "id": 21
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "王婶",
+    "voice": "zh-CN-YunxiaNeural",
+    "text": "什么？",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": false,
+    "id": 22
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "石头",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "水往低处走。走到最低的地方，就停下来了。停下来以后，天会下雨，河里会涨水，水又会流起来。",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": false,
+    "id": 23
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "王婶看着他。看了很久。然后她低下头，继续纳鞋底。嗤——嗤——",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": false,
+    "id": 24
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头蹲了一会儿，站起来走了。走到院门口的时候，他回头看了一眼。王婶还坐在那里，手里的针动着。",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": false,
+    "id": 25
+  },
+  {
+    "scene": "王婶家",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他出了院门，走在村路上。刚才那句话不是他想出来的。是那股热走到喉咙的时候，自己变成的话。他不知道自己为什么说那句话，也不知道那句话对不对。但他感觉到，那句话说出来以后，他胸口有什么东西松了一下。像一块小石头，从高处落下去，落到底了。",
+    "image": "6/images_gen/scene_04.png",
+    "prompt": "a middle-aged village woman with a cotton kerchief, neat clean earthy cotton clothes sitting on a small stool at a kitchen door with a half-finished shoe sole, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting beside her, an empty chicken coop in the yard",
+    "gen_video": false,
+    "id": 26
+  },
+  {
+    "scene": "陈卫东不念",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那年过年，父亲跟石头说了一件事。",
+    "image": "6/images_gen/scene_05.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform adding firewood into a clay stove in a rural kitchen, an old thin man with white hair and a weathered face, dark cotton jacket, neat clean clothes standing nearby talking, firelight",
+    "gen_video": false,
+    "id": 27
+  },
+  {
+    "scene": "陈卫东不念",
+    "speaker": "父亲",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "卫东不念了。",
+    "image": "6/images_gen/scene_05.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform adding firewood into a clay stove in a rural kitchen, an old thin man with white hair and a weathered face, dark cotton jacket, neat clean clothes standing nearby talking, firelight",
+    "gen_video": false,
+    "id": 28
+  },
+  {
+    "scene": "陈卫东不念",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头正在往灶里添柴，手停了一下。",
+    "image": "6/images_gen/scene_05.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform adding firewood into a clay stove in a rural kitchen, an old thin man with white hair and a weathered face, dark cotton jacket, neat clean clothes standing nearby talking, firelight",
+    "gen_video": false,
+    "id": 29
+  },
+  {
+    "scene": "陈卫东不念",
+    "speaker": "父亲",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "他爹让他回去。在生产队帮忙，过几年接他的班。",
+    "image": "6/images_gen/scene_05.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform adding firewood into a clay stove in a rural kitchen, an old thin man with white hair and a weathered face, dark cotton jacket, neat clean clothes standing nearby talking, firelight",
+    "gen_video": false,
+    "id": 30
+  },
+  {
+    "scene": "陈卫东不念",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头把柴塞进灶膛。火苗舔着新柴，发出噼啪的声响。",
+    "image": "6/images_gen/scene_05.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform adding firewood into a clay stove in a rural kitchen, an old thin man with white hair and a weathered face, dark cotton jacket, neat clean clothes standing nearby talking, firelight",
+    "gen_video": false,
+    "id": 31
+  },
+  {
+    "scene": "陈卫东不念",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "陈卫东和他同学两年，成绩不算好，但也不差。上课的时候喜欢在课本边上画小人，画得很好。现在他不念了。石头没有问为什么他不念了我还能念。父亲让他继续念，是因为父亲没说不够。父亲的沉默里有一种东西——他不知道那是什么，但他感觉得到。",
+    "image": "6/images_gen/scene_05.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform adding firewood into a clay stove in a rural kitchen, an old thin man with white hair and a weathered face, dark cotton jacket, neat clean clothes standing nearby talking, firelight",
+    "gen_video": false,
+    "id": 32
+  },
+  {
+    "scene": "陈卫东不念",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他把手从灶膛边收回来。手指被火烤得发热。热从指尖往里走，走手掌，走手腕，走手臂。走到胸口的时候，停了一下。然后继续走，走到腰上，和那颗心跳汇在一起。",
+    "image": "6/images_gen/scene_05.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform adding firewood into a clay stove in a rural kitchen, an old thin man with white hair and a weathered face, dark cotton jacket, neat clean clothes standing nearby talking, firelight",
+    "gen_video": false,
+    "id": 33
+  },
+  {
+    "scene": "陈卫东不念",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那颗心跳了一下。比平时重。",
+    "image": "6/images_gen/scene_05.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform adding firewood into a clay stove in a rural kitchen, an old thin man with white hair and a weathered face, dark cotton jacket, neat clean clothes standing nearby talking, firelight",
+    "gen_video": false,
+    "id": 34
+  },
+  {
+    "scene": "图书室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "过完年，石头十四岁，升入公社中学。中学在完小隔壁，也是两排青砖平房，但多了一间图书室。图书室不大，只有两个书架，上面的书大半是政治读物和农业技术手册，但角落里有一批旧书，是文革前留下来的。",
+    "image": "6/images_gen/scene_06.png",
+    "prompt": "a small school library with two bookshelves, a one-legged old librarian with a grey coat handing an old book to a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 35
+  },
+  {
+    "scene": "图书室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "管理图书室的是个老校工，姓吴，五十多岁，瘸了一条腿。据说原来是县中的老师，犯了错误被下放到公社，书教不成了，就管图书室。吴老师不爱说话，学生来借书，他接过去，登记，递回来。",
+    "image": "6/images_gen/scene_06.png",
+    "prompt": "a small school library with two bookshelves, a one-legged old librarian with a grey coat handing an old book to a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 36
+  },
+  {
+    "scene": "图书室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头第一次去借书，拿的是一本《中国古代寓言选》。吴老师接过书，看了封面一眼，又看了石头一眼。",
+    "image": "6/images_gen/scene_06.png",
+    "prompt": "a small school library with two bookshelves, a one-legged old librarian with a grey coat handing an old book to a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 37
+  },
+  {
+    "scene": "图书室",
+    "speaker": "吴老师",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "你叫什么？",
+    "image": "6/images_gen/scene_06.png",
+    "prompt": "a small school library with two bookshelves, a one-legged old librarian with a grey coat handing an old book to a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 38
+  },
+  {
+    "scene": "图书室",
+    "speaker": "石头",
+    "voice": "zh-CN-YunxiNeural",
+    "text": "陈静远。",
+    "image": "6/images_gen/scene_06.png",
+    "prompt": "a small school library with two bookshelves, a one-legged old librarian with a grey coat handing an old book to a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 39
+  },
+  {
+    "scene": "图书室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头用的是大名。上中学以后，他就很少让人叫石头了。吴老师在登记本上写了名字和书名，把书递回来。",
+    "image": "6/images_gen/scene_06.png",
+    "prompt": "a small school library with two bookshelves, a one-legged old librarian with a grey coat handing an old book to a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 40
+  },
+  {
+    "scene": "图书室",
+    "speaker": "吴老师",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "这本书借的人不多。",
+    "image": "6/images_gen/scene_06.png",
+    "prompt": "a small school library with two bookshelves, a one-legged old librarian with a grey coat handing an old book to a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 41
+  },
+  {
+    "scene": "书有呼吸",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头接过书。手指碰到书页的时候，他感觉到纸面上有一种很细的震动。不是真的震动，是那种——他说不上来。像书里面有东西在呼吸。很慢很慢的呼吸，慢到几乎感觉不到。",
+    "image": "6/images_gen/scene_07.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform holding an old book titled 中国古代寓言选 to his chest in the library, eyes closed, faint warm glow at his chest",
+    "gen_video": false,
+    "id": 42
+  },
+  {
+    "scene": "书有呼吸",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他拿着书走出图书室。手指上的感觉还在。他把书翻开，纸页的气味扑面而来。旧书的气味，墨和纸和灰尘和时间混在一起的味道。他深吸了一口气，那味道从鼻子往里走，走喉咙，走胸口。走到胸口的时候，胸口的某个地方微微跳了一下。",
+    "image": "6/images_gen/scene_07.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform holding an old book titled 中国古代寓言选 to his chest in the library, eyes closed, faint warm glow at his chest",
+    "gen_video": true,
+    "id": 43,
+    "video": "6/output/scene_43.mp4"
+  },
+  {
+    "scene": "书有呼吸",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他站在那里，把书贴在胸口。跳的地方和书贴着的地方，是同一个地方。",
+    "image": "6/images_gen/scene_07.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform holding an old book titled 中国古代寓言选 to his chest in the library, eyes closed, faint warm glow at his chest",
+    "gen_video": false,
+    "id": 44
+  },
+  {
+    "scene": "图书室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那以后，石头成了图书室的常客。他看书的速度让吴老师多看了他几眼。一本《中国古代寓言选》，三天还回来了。接着借《科学家谈二十一世纪》，两天。《天体运行浅说》，四天。《辩证唯物主义常识》，五天。",
+    "image": "6/images_gen/scene_06.png",
+    "prompt": "a small school library with two bookshelves, a one-legged old librarian with a grey coat handing an old book to a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 45
+  },
+  {
+    "scene": "图书室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他发现不同的书，贴着胸口的时候，跳的地方不一样。寓言选跳在胸口中间。科学家谈二十一世纪跳在胸口偏左。天体运行浅说跳在胸口偏上，靠近喉咙。辩证唯物主义常识跳在胸口偏下，靠近肚子。",
+    "image": "6/images_gen/scene_06.png",
+    "prompt": "a small school library with two bookshelves, a one-legged old librarian with a grey coat handing an old book to a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 46
+  },
+  {
+    "scene": "图书室",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他不明白为什么。但他记住了每本书跳的位置。",
+    "image": "6/images_gen/scene_06.png",
+    "prompt": "a small school library with two bookshelves, a one-legged old librarian with a grey coat handing an old book to a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform",
+    "gen_video": false,
+    "id": 47
+  },
+  {
+    "scene": "中国哲学史",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "有一次他去还书的时候，吴老师已经把下一本书放在桌上了，没等他开口。",
+    "image": "6/images_gen/scene_08.png",
+    "prompt": "the old librarian placing a brown-paper-wrapped book on the desk, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform reaching for it, warm glow near his waist",
+    "gen_video": false,
+    "id": 48
+  },
+  {
+    "scene": "中国哲学史",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那是一本《中国哲学史》上册。书皮包着牛皮纸，纸边磨毛了。",
+    "image": "6/images_gen/scene_08.png",
+    "prompt": "the old librarian placing a brown-paper-wrapped book on the desk, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform reaching for it, warm glow near his waist",
+    "gen_video": false,
+    "id": 49
+  },
+  {
+    "scene": "中国哲学史",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头接过书。手指碰到书页的时候，那个震动比之前的书都大。他把书贴到胸口。这次跳的地方不在胸口，在更下面——在胸口和肚子之间，靠近腰的位置。",
+    "image": "6/images_gen/scene_08.png",
+    "prompt": "the old librarian placing a brown-paper-wrapped book on the desk, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform reaching for it, warm glow near his waist",
+    "gen_video": true,
+    "id": 50,
+    "video": "6/output/scene_50.mp4"
+  },
+  {
+    "scene": "中国哲学史",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "吴老师看着他。",
+    "image": "6/images_gen/scene_08.png",
+    "prompt": "the old librarian placing a brown-paper-wrapped book on the desk, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform reaching for it, warm glow near his waist",
+    "gen_video": false,
+    "id": 51
+  },
+  {
+    "scene": "中国哲学史",
+    "speaker": "吴老师",
+    "voice": "zh-CN-YunjianNeural",
+    "text": "这本书，你可能看得懂。",
+    "image": "6/images_gen/scene_08.png",
+    "prompt": "the old librarian placing a brown-paper-wrapped book on the desk, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform reaching for it, warm glow near his waist",
+    "gen_video": false,
+    "id": 52
+  },
+  {
+    "scene": "建军离开",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那年夏天，发生了一件事。石头周末回家，发现建军不在。母亲说建军跟人去了县城，学木匠。",
+    "image": "6/images_gen/scene_09.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on the edge of a plank bed in a rural room, one hand on the wooden board, sunlight through the window, a rolled-up mattress against the wall",
+    "gen_video": false,
+    "id": 53
+  },
+  {
+    "scene": "建军离开",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头站在院子里。枣树的叶子密密地绿着，把阳光切成碎片撒在地上。他走到西屋。通铺上，建军的褥子还在，卷起来靠在墙脚，上面落了薄薄一层灰。",
+    "image": "6/images_gen/scene_09.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on the edge of a plank bed in a rural room, one hand on the wooden board, sunlight through the window, a rolled-up mattress against the wall",
+    "gen_video": false,
+    "id": 54
+  },
+  {
+    "scene": "建军离开",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他在通铺边坐下来。手放在建军睡过的位置。褥子卷着，他碰不到褥面，只有木板。木板是凉的。",
+    "image": "6/images_gen/scene_09.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on the edge of a plank bed in a rural room, one hand on the wooden board, sunlight through the window, a rolled-up mattress against the wall",
+    "gen_video": true,
+    "id": 55,
+    "video": "6/output/scene_55.mp4"
+  },
+  {
+    "scene": "建军离开",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他闭上眼睛。身体里的热自己走了起来。从腰上出发，走胸口，走手臂，走手掌，走指尖。热走到指尖的时候，碰到了木板的凉。",
+    "image": "6/images_gen/scene_09.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on the edge of a plank bed in a rural room, one hand on the wooden board, sunlight through the window, a rolled-up mattress against the wall",
+    "gen_video": false,
+    "id": 56
+  },
+  {
+    "scene": "建军离开",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他没有把手收回来。他让热继续往外走。热从指尖走出去，走到木板上。木板是凉的，热走进去，慢慢散开。散成很薄很薄的一层，铺在木板表面。",
+    "image": "6/images_gen/scene_09.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on the edge of a plank bed in a rural room, one hand on the wooden board, sunlight through the window, a rolled-up mattress against the wall",
+    "gen_video": true,
+    "id": 57,
+    "video": "6/output/scene_57.mp4"
+  },
+  {
+    "scene": "建军离开",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他感觉到那层热在木板上铺开。铺到建军睡过的位置，停了一下。那个位置比别的地方凉。不是木板的凉，是另一种凉。很淡，像一杯水里滴了一滴墨，墨散开了，但水还是带着那滴墨的颜色。",
+    "image": "6/images_gen/scene_09.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on the edge of a plank bed in a rural room, one hand on the wooden board, sunlight through the window, a rolled-up mattress against the wall",
+    "gen_video": false,
+    "id": 58
+  },
+  {
+    "scene": "建军离开",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他把手收回来。指尖是凉的。他睁开眼睛。阳光从窗户照进来，照在建军的褥子上。灰尘在光里浮着。",
+    "image": "6/images_gen/scene_09.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on the edge of a plank bed in a rural room, one hand on the wooden board, sunlight through the window, a rolled-up mattress against the wall",
+    "gen_video": false,
+    "id": 59
+  },
+  {
+    "scene": "建军离开",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那天晚上，石头在院子里坐到很晚。枣树把星光遮住了大半。他想起建军问他蚂蚁为什么不会迷路。想起建军说人有没有这种味道。想起建军在黑暗里笑骂他放屁。",
+    "image": "6/images_gen/scene_09.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on the edge of a plank bed in a rural room, one hand on the wooden board, sunlight through the window, a rolled-up mattress against the wall",
+    "gen_video": false,
+    "id": 60
+  },
+  {
+    "scene": "建军离开",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他把手放在腰上。那颗心跳着。一下，一下。",
+    "image": "6/images_gen/scene_09.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on the edge of a plank bed in a rural room, one hand on the wooden board, sunlight through the window, a rolled-up mattress against the wall",
+    "gen_video": false,
+    "id": 61
+  },
+  {
+    "scene": "建军离开",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "建军在县城里。他在陈家湾。距离是四十里。但他觉得，他和建军之间有什么东西没有断。不是信，不是话，是另一种东西。像那条河，水从上游流下来，经过他，往下游流去。建军在上游，他在下游。同一条河。",
+    "image": "6/images_gen/scene_09.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting on the edge of a plank bed in a rural room, one hand on the wooden board, sunlight through the window, a rolled-up mattress against the wall",
+    "gen_video": false,
+    "id": 62
+  },
+  {
+    "scene": "恢复高考",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "秋天开学的时候，石头听说了一件事。恢复高考了。消息是方老师在课堂上宣布的。她说这个消息的时候声音比平时高了一点。",
+    "image": "6/images_gen/scene_10.png",
+    "prompt": "a classroom erupting with excitement, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting quietly at his desk, a thin line of warm light rising from his head",
+    "gen_video": false,
+    "id": 63
+  },
+  {
+    "scene": "恢复高考",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "教室里炸了锅。",
+    "image": "6/images_gen/scene_10.png",
+    "prompt": "a classroom erupting with excitement, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting quietly at his desk, a thin line of warm light rising from his head",
+    "gen_video": false,
+    "id": 64
+  },
+  {
+    "scene": "恢复高考",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "石头坐在座位上，没有跟着炸。",
+    "image": "6/images_gen/scene_10.png",
+    "prompt": "a classroom erupting with excitement, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting quietly at his desk, a thin line of warm light rising from his head",
+    "gen_video": true,
+    "id": 65,
+    "video": "6/output/scene_65.mp4"
+  },
+  {
+    "scene": "恢复高考",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他感觉到自己身体里的热自己动了。从腰上升起来，往上走。走胸口，走喉咙，走头顶。走到头顶的时候没有停，继续往上走。走出去了。",
+    "image": "6/images_gen/scene_10.png",
+    "prompt": "a classroom erupting with excitement, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting quietly at his desk, a thin line of warm light rising from his head",
+    "gen_video": false,
+    "id": 66
+  },
+  {
+    "scene": "恢复高考",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "走出去的感觉和以前不一样。以前热走出去，很快就散了。这次走出去，没有散。聚成细细的一缕，一直往上走。走到他感觉不到的地方。",
+    "image": "6/images_gen/scene_10.png",
+    "prompt": "a classroom erupting with excitement, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting quietly at his desk, a thin line of warm light rising from his head",
+    "gen_video": false,
+    "id": 67
+  },
+  {
+    "scene": "恢复高考",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他坐在那里，等着。过了一会儿，那股热自己回来了。从头顶收回来，往下走。走喉咙，走胸口，走腰。走到腰上的时候，和那颗心跳汇在一起。",
+    "image": "6/images_gen/scene_10.png",
+    "prompt": "a classroom erupting with excitement, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting quietly at his desk, a thin line of warm light rising from his head",
+    "gen_video": false,
+    "id": 68
+  },
+  {
+    "scene": "恢复高考",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "那颗心跳了一下。比平时重。比哪一次都重。",
+    "image": "6/images_gen/scene_10.png",
+    "prompt": "a classroom erupting with excitement, a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform sitting quietly at his desk, a thin line of warm light rising from his head",
+    "gen_video": false,
+    "id": 69
+  },
+  {
+    "scene": "河边凉热",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "放学以后，石头去了河边。河水还是那样流着，从上游来，往下游去。他蹲下来，把手伸进水里。水从指缝间流过。",
+    "image": "6/images_gen/scene_11.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting by a small river with one hand in the water, cool and warm meeting at his wrist, fantasy glow",
+    "gen_video": false,
+    "id": 70
+  },
+  {
+    "scene": "河边凉热",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他没有让热走出去。他只是蹲着，感觉水的凉从手指往里走。凉走得很慢，走到手腕的时候，碰到了从腰上往外走的热。一凉一热在手腕相遇。没有抵消，没有融合。凉是凉，热是热。各走各的路。",
+    "image": "6/images_gen/scene_11.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting by a small river with one hand in the water, cool and warm meeting at his wrist, fantasy glow",
+    "gen_video": true,
+    "id": 71,
+    "video": "6/output/scene_71.mp4"
+  },
+  {
+    "scene": "河边凉热",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他蹲了很久。站起来的时候，腿有一点麻。他跺了跺脚，麻从脚底往上走，走到小腿，走到膝盖，走到大腿。走到腰上的时候，那颗心跳了一下。然后麻散了。",
+    "image": "6/images_gen/scene_11.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting by a small river with one hand in the water, cool and warm meeting at his wrist, fantasy glow",
+    "gen_video": false,
+    "id": 72
+  },
+  {
+    "scene": "河边凉热",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他站在河边，看着河水去的方向。河往东流，流到县城，流到省城，流到他没去过的地方。",
+    "image": "6/images_gen/scene_11.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting by a small river with one hand in the water, cool and warm meeting at his wrist, fantasy glow",
+    "gen_video": false,
+    "id": 73
+  },
+  {
+    "scene": "河边凉热",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他把手从水里收回来。手是凉的。但手腕那个地方——凉和热相遇的地方——是温的。",
+    "image": "6/images_gen/scene_11.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting by a small river with one hand in the water, cool and warm meeting at his wrist, fantasy glow",
+    "gen_video": false,
+    "id": 74
+  },
+  {
+    "scene": "河边凉热",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "他转过身，往回走。",
+    "image": "6/images_gen/scene_11.png",
+    "prompt": "a fourteen-year-old boy, lean, short black hair, wearing a neat clean grey student uniform squatting by a small river with one hand in the water, cool and warm meeting at his wrist, fantasy glow",
+    "gen_video": false,
+    "id": 75
+  },
+  {
+    "scene": "片尾",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "腰上那颗心跳着。一下，一下。比平时快了一点点。不是紧张。是一种他说不上来的感觉。像春天枣树的芽苞，硬硬的，小小的，包着一层褐色的壳。里面有什么东西在往外顶。",
+    "image": "6/images_gen/scene_12.png",
+    "prompt": "a river flowing east toward a distant town at dusk, a boy walking back along the bank",
+    "gen_video": false,
+    "id": 76
+  },
+  {
+    "scene": "片尾",
+    "speaker": "旁白",
+    "voice": "zh-CN-YunyangNeural",
+    "text": "第六章 完。",
+    "image": "6/images_gen/scene_12.png",
+    "prompt": "a river flowing east toward a distant town at dusk, a boy walking back along the bank",
+    "gen_video": false,
+    "id": 77
+  }
+]
